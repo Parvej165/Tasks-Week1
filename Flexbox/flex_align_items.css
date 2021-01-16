@@ -1,0 +1,9 @@
+.flex-container {
+  display: flex;
+  background-color: thistle;
+  align-items: center;
+  /* align-items: baseline;
+    align-items: flex-end;
+    align-items: flex-start; 
+    align-items: stretch; */
+}

@@ -1,0 +1,8 @@
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+    flex-wrap: wrap;
+    /*other values of flex wrap
+    /* flex-wrap: nowrap;
+    flex-wrap: wrap-reverse; */
+}

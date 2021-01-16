@@ -1,0 +1,5 @@
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+    flex-flow: row wrap;   /* Combination of flex direction and flex wrap */
+}
